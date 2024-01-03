@@ -1,3 +1,6 @@
-F18     A37
+F18   A37
 B350	C02T			
 B350	C04T			
+
+The list can be continued by first adding the aircraft to be scanned in input.vmr
+as 2 what should be replaced in the other .vmr.
